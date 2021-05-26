@@ -1,0 +1,30 @@
+.box{
+    background-color:#132743;
+    margin:100px auto 100px auto;
+    padding:3px 30px;
+    font-size:50px;
+    text-align:center;
+    color:#d7385e;
+    width:600px;
+    box-shadow: 20px 20px 20px ;
+    font-family: 'Luckiest Guy', cursive;
+    display:grid;
+
+}
+h1{
+    margin:0;
+}
+.name2{
+    background-color:#edc988;
+    color:#af2d2d;
+    margin:5px;
+    padding:4px;
+    border-color: #f05454;
+    border-radius:30px;
+    border-style:dashed;
+    width:3px;
+    height:3px;
+    box-shadow:20px;
+    font-family: 'Permanent Marker', cursive;
+
+}
